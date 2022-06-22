@@ -1,0 +1,42 @@
+{
+    "guest": [
+        {
+            "event_id": "1",
+            "template_url": "https://firebasestorage.googleapis.com/v0/b/mobilly-invite.appspot.com/o/Mob-invited%2FNaN%2F643899?alt=media&token=7f423f94-25e4-4978-99a1-b91477d41dfb",
+            "event_date_time": "20 April 2022 8:00 pm",
+            "event_title": "Marriage Invite"
+        },
+        {
+            "event_id": "1",
+            "template_url": "https://firebasestorage.googleapis.com/v0/b/mobilly-invite.appspot.com/o/Mob-invited%2FNaN%2F643899?alt=media&token=7f423f94-25e4-4978-99a1-b91477d41dfb",
+            "event_date_time": "20 April 2022 8:00 pm",
+            "event_title": "Marriage Invite"
+        }
+    ],
+    "host": [
+        {
+            "event_id": "1",
+            "template_url": "https://firebasestorage.googleapis.com/v0/b/mobilly-invite.appspot.com/o/Mob-invited%2FNaN%2F643899?alt=media&token=7f423f94-25e4-4978-99a1-b91477d41dfb",
+            "event_date_time": "20 April 2022 8:00 pm",
+            "event_title": "Marriage Invite"
+        },
+        {
+            "event_id": "1",
+            "template_url": "https://firebasestorage.googleapis.com/v0/b/mobilly-invite.appspot.com/o/Mob-invited%2FNaN%2F643899?alt=media&token=7f423f94-25e4-4978-99a1-b91477d41dfb",
+            "event_date_time": "20 April 2022 8:00 pm",
+            "event_title": "Marriage Invite"
+        },
+        {
+            "event_id": "1",
+            "template_url": "https://firebasestorage.googleapis.com/v0/b/mobilly-invite.appspot.com/o/Mob-invited%2FNaN%2F643899?alt=media&token=7f423f94-25e4-4978-99a1-b91477d41dfb",
+            "event_date_time": "20 April 2022 8:00 pm",
+            "event_title": "Marriage Invite"
+        },
+        {
+            "event_id": "1",
+            "template_url": "https://firebasestorage.googleapis.com/v0/b/mobilly-invite.appspot.com/o/Mob-invited%2FNaN%2F643899?alt=media&token=7f423f94-25e4-4978-99a1-b91477d41dfb",
+            "event_date_time": "20 April 2022 8:00 pm",
+            "event_title": "Marriage Invite"
+        }
+    ]
+}
